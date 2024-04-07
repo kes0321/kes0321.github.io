@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kes0321.github.io/sitemap.xml
