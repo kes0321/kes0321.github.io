@@ -17,18 +17,15 @@ render_with_liquid: false
 
 ## 개발 환경 세팅
 ---
-[이 글](https://kes0321.github.io/posts/learn-flutter-01 "01. Flutter 설치 및 개발 환경 세팅하기")대로 **Flutter**와 **Android Studio**를 설치하고 세팅하였다.
+[이 과정](https://kes0321.github.io/posts/learn-flutter-01 "01. Flutter 설치 및 개발 환경 세팅하기")대로 **Flutter**와 **Android Studio**를 설치하고 세팅하였다.
 <br>
 <br>
 
 ## 프로젝트 생성
 ---
-
+[이 과정](https://kes0321.github.io/posts/learn-flutter-02 "02. Flutter 새 프로젝트 만들기")대로 **scheduler_app_project**를 생성하였다.
 <br>
 <br>
-
-## 구현할 기능들?
----
 
 ## 도움이 된 자료들
-
+---

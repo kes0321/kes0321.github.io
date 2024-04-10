@@ -6,12 +6,10 @@ categories: [공부, Flutter]
 tags: [공부, flutter, 설치, 개발환경설정]
 render_with_liquid: false
 ---
-## 플러터 공부 시리즈
-글1
+## Flutter 공부 시리즈
+[01. Flutter 설치 및 개발 환경 세팅하기](https://kes0321.github.io/posts/learn-flutter-01)
 
-글2
-
-글3
+[02. Flutter 새 프로젝트 만들기](https://kes0321.github.io/posts/learn-flutter-02)
 <br>
 <br>
 
@@ -19,7 +17,7 @@ render_with_liquid: false
 ---
 1. VSCode에서 **Flutter extension**를 설치한다.<br>
 ![Flutter 설치](/assets/img/learn-flutter-01/1.png)
-2. VsCode의 명령 팔레트(`Ctrl`+`shift`+`p`)를 열고 **Flutter: New Project**를 입력한다.<br>
+2. VsCode의 명령 팔레트(`Ctrl`+`Shift`+`P`)를 열고 **Flutter: New Project**를 입력한다.<br>
 ![Flutter 설치](/assets/img/learn-flutter-01/2.png)
 3. 우측 하단에 나오는 창에서 **Download SDK**를 클릭한다.<br>
 ![Flutter 설치](/assets/img/learn-flutter-01/3.png)
