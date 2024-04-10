@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 춘배 # the main title
 
-tagline: 태그라인 # it will display as the sub-title
+tagline: Just Do It # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
