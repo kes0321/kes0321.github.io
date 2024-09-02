@@ -3,7 +3,7 @@ title: "[NodeJS] .env 파일로 환경 변수 관리하기"
 author: master
 date: 2024-08-30 10:24:00 +0900
 categories: [NodeJS]
-tags: [공부, NodeJS, .env파일]
+tags: [공부, NodeJS, .env]
 render_with_liquid: false
 ---
 
@@ -26,7 +26,7 @@ DB="myproject_db"
 ```
 {: file='.env'}
 
-## .env 환경 변수 사용
+## .env 파일의 환경 변수 사용
 ---
 `.env` 파일에서 정의한 변수는 NodeJS 프로젝트에서 다음과 같이 사용할 수 있다.
 ### dotenv 패키지 설치
@@ -48,9 +48,7 @@ var connection = mysql.createPool({
 
 ## .gitignore 등록
 `.gitignore`파일을 만들어 `.env`를 등록해주면 git이 해당 파일을 tracking하지 않도록 할 수 있다.
-```
-.env
-```
+![.gitignore 등록](/assets/img/NodeJS/2024-08-30-02.png)
 
 ## 참고 자료
 [.env 파일](https://hyunsign.tistory.com/69)
